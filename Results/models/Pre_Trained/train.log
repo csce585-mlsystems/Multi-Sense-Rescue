@@ -1,0 +1,8 @@
+2023-12-03 15:45:02,633 Average episode reward: 16.652265
+2023-12-03 15:45:02,634 Average episode distance_to_goal: 0.163500
+2023-12-03 15:45:02,634 Average episode normalized_distance_to_goal: 0.021455
+2023-12-03 15:45:02,634 Average episode success: 0.946000
+2023-12-03 15:45:02,634 Average episode spl: 0.793203
+2023-12-03 15:45:02,634 Average episode softspl: 0.817131
+2023-12-03 15:45:02,634 Average episode na: 69.923000
+2023-12-03 15:45:02,634 Average episode sna: 0.533948
